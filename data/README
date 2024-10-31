@@ -1,0 +1,6 @@
+SCOTUS_data.tsv contains all the cases from huggingface.co/datasets/harvard-lil/cold-cases, filtered by "court_short_name" == "Supreme Court"
+SCOTUS_data_cleaned.tsv contains all the cases from SCOTUS_data.tsv, filtered by "judges" != NaN
+
+File sizes:
+SCOTUS_data.tsv (1.72 GB)
+SCOTUS_data_cleaned.tsv (1.45 GB)
